@@ -1,0 +1,32 @@
+{
+  "name": "webpack-fundamentals",
+  "version": "1.0.0",
+  "description": "Webpack fundamentals practice",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malvarezhcr/webpack-fundamentals.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Mariano Alvarez",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.1.18",
+    "jshint": "^2.8.0",
+    "jshint-loader": "^0.8.3",
+    "node-libs-browser": "^2.0.0",
+    "strip-loader": "^0.1.2",
+    "webpack": "^1.12.9"
+  },
+  "bugs": {
+    "url": "https://github.com/malvarezhcr/webpack-fundamentals/issues"
+  },
+  "homepage": "https://github.com/malvarezhcr/webpack-fundamentals#readme"
+}
